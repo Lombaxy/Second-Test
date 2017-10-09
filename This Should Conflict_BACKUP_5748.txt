@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Yo This should hopefullt conflict poopy mcgee
+=======
+Yo This should hopefully conflict prertty good!
+>>>>>>> 26e47cf4476d6e9b2685f7f3a49a8bc2ade16311
